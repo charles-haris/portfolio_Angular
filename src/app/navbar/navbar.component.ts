@@ -7,4 +7,11 @@ import { Component } from '@angular/core';
 })
 export class NavbarComponent {
 
+  home = "#"
+  about = "#"
+  services = "#"
+  portfolio = "#"
+  recommendation = "#"
+  contact = "#"
+
 }
